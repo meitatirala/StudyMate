@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color dark_text
+color lavender
+color muted_text
+color purple
+color white
+drawable input_bg
+id btnCreate
+id btnLogin
+id btnRegister
+id btnReset
+id etEmail
+id etName
+id etPassword
+id tvBackLogin
+id tvForgot
+id tvToLogin
+layout activity_forgot_password
+layout activity_main
+layout activity_register
+style AppTheme

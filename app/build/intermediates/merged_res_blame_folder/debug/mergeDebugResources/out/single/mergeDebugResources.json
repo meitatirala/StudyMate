@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.studymate.app-debug-59:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.studymate.app-main-61:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.studymate.app-debug-59:/drawable_input_bg.xml.flat",
+        "source": "com.example.studymate.app-main-61:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.studymate.app-debug-59:/layout_activity_register.xml.flat",
+        "source": "com.example.studymate.app-main-61:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.studymate.app-debug-59:/layout_activity_main.xml.flat",
+        "source": "com.example.studymate.app-main-61:/layout/activity_main.xml"
+    }
+]
